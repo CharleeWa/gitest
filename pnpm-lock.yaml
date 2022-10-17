@@ -3,10 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   commitizen: ^4.2.5
   cz-emoji-chinese: ^0.3.1
+  cz-emoji-chinese2: ^0.3.2
 
 devDependencies:
   commitizen: 4.2.5
   cz-emoji-chinese: 0.3.1
+  cz-emoji-chinese2: 0.3.2
 
 packages:
 
@@ -443,6 +445,21 @@ packages:
 
   /cz-emoji-chinese/0.3.1:
     resolution: {integrity: sha512-ZyYIoNDvqfBblQXOLLEDm2o4/6NEGGP1/Xt5pPxxDl8KFePsOkwH+CO+LMHiGkmikNJcaIXWppfy5wpNGiCGvg==}
+    engines: {node: '>=4'}
+    dependencies:
+      cli-truncate: 1.1.0
+      fuse.js: 3.6.1
+      home-dir: 1.0.0
+      inquirer-autocomplete-prompt: 0.12.2
+      inquirer-maxlength-input-prompt: 1.0.2
+      pad: 2.3.0
+      prettier: 1.19.1
+      read-pkg-up: 2.0.0
+      wrap-ansi: 3.0.1
+    dev: true
+
+  /cz-emoji-chinese2/0.3.2:
+    resolution: {integrity: sha512-/AIa1STLX9jr96dGBR8RtJWpe8upQMk2cocXZfAtLJV8ZNkIhLnKQkDIzmF06sXyUqC5kkGIhL8m2z0GaphstA==}
     engines: {node: '>=4'}
     dependencies:
       cli-truncate: 1.1.0

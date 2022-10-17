@@ -11,11 +11,12 @@
   "license": "ISC",
   "devDependencies": {
     "commitizen": "^4.2.5",
-    "cz-emoji-chinese": "^0.3.1"
+    "cz-emoji-chinese": "^0.3.1",
+    "cz-emoji-chinese2": "^0.3.2"
   },
   "config": {
     "commitizen": {
-       "path": "./node_modules/cz-emoji-chinese"
+      "path": "./node_modules/cz-emoji-chinese2"
     }
   }
 }
