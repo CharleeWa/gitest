@@ -3,12 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   commitizen: ^4.2.5
   cz-emoji-chinese: ^0.3.1
-  cz-emoji-chinese2: ^0.3.3
+  cz-emoji-chinese2: ^0.3.6
 
 devDependencies:
   commitizen: 4.2.5
   cz-emoji-chinese: 0.3.1
-  cz-emoji-chinese2: 0.3.3
+  cz-emoji-chinese2: 0.3.7
 
 packages:
 
@@ -458,8 +458,8 @@ packages:
       wrap-ansi: 3.0.1
     dev: true
 
-  /cz-emoji-chinese2/0.3.3:
-    resolution: {integrity: sha512-j6vk7oFbetMQAp5tASfUg80mpjm+DCocfgfpWO2ZW0XMaSLWj5awJwWyt47S3S47DsAjHGQ3AsL0f9rGAOQsNA==}
+  /cz-emoji-chinese2/0.3.7:
+    resolution: {integrity: sha512-mC4+kkGgARdud0SjZJr1O9LYnFCIv7a1cR/G8FKxmy1jJq9vlLVHUKZZFxwLWyzhuWOSUN/+VaATthPlRXx/ng==}
     engines: {node: '>=4'}
     dependencies:
       cli-truncate: 1.1.0
