@@ -12,7 +12,7 @@
   "devDependencies": {
     "commitizen": "^4.2.5",
     "cz-emoji-chinese": "^0.3.1",
-    "cz-emoji-chinese2": "^0.3.2"
+    "cz-emoji-chinese2": "^0.3.3"
   },
   "config": {
     "commitizen": {
