@@ -1,4 +1,4 @@
-lockfileVersion: 5.4
+lockfileVersion: 5.3
 
 specifiers:
   commitizen: ^4.2.5
@@ -61,10 +61,10 @@ packages:
       '@types/node': 14.18.32
       chalk: 4.1.2
       cosmiconfig: 7.0.1
-      cosmiconfig-typescript-loader: 4.1.1_vfayau7oz5qy4giwqlppd3j3ti
+      cosmiconfig-typescript-loader: 4.1.1_a9418053eecf618e191682def1ed3b9a
       lodash: 4.17.21
       resolve-from: 5.0.0
-      ts-node: 10.9.1_jcmx33t3olsvcxopqdljsohpme
+      ts-node: 10.9.1_48997dee7b72e5515dcf80d69938ef61
       typescript: 4.8.4
     transitivePeerDependencies:
       - '@swc/core'
@@ -391,7 +391,7 @@ packages:
     resolution: {integrity: sha512-SmmCYnOniSsAa9GqWOeLqc179lfr5TRu5b4QFDkbsrJ5TZjPJx85wtOr3zn+1dbeNiXDKGPbZ72IKbPhLXh/Lg==}
     dev: true
 
-  /cosmiconfig-typescript-loader/4.1.1_vfayau7oz5qy4giwqlppd3j3ti:
+  /cosmiconfig-typescript-loader/4.1.1_a9418053eecf618e191682def1ed3b9a:
     resolution: {integrity: sha512-9DHpa379Gp0o0Zefii35fcmuuin6q92FnLDffzdZ0l9tVd3nEobG3O+MZ06+kuBvFTSVScvNb/oHA13Nd4iipg==}
     engines: {node: '>=12', npm: '>=6'}
     peerDependencies:
@@ -402,7 +402,7 @@ packages:
     dependencies:
       '@types/node': 14.18.32
       cosmiconfig: 7.0.1
-      ts-node: 10.9.1_jcmx33t3olsvcxopqdljsohpme
+      ts-node: 10.9.1_48997dee7b72e5515dcf80d69938ef61
       typescript: 4.8.4
     dev: true
     optional: true
@@ -1381,7 +1381,7 @@ packages:
       is-number: 7.0.0
     dev: true
 
-  /ts-node/10.9.1_jcmx33t3olsvcxopqdljsohpme:
+  /ts-node/10.9.1_48997dee7b72e5515dcf80d69938ef61:
     resolution: {integrity: sha512-NtVysVPkxxrwFGUUxGYhfux8k78pQB3JqYBXlLRZgdGUqTO5wU/UyHop5p70iEbGhB7q5KmiZiU0Y3KlJrScEw==}
     hasBin: true
     peerDependencies:
